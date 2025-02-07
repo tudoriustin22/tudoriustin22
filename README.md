@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **tudor.iustin@icloud.com**
 
-- ⚡ Fun fact **I love multi-tasking**
+- ⚡ Fun fact **I love building apps that convert into passive income**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
