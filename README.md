@@ -5,13 +5,13 @@
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/tudor-iustin](https://www.linkedin.com/in/tudor-iustin)
 
-- 💬 Ask me about **Swift, SwiftUI, React Native, JavaScript, Figma Design, Machine Learning**
+- 💬 Ask me about **Swift, SwiftUI, CoreML , CoreData, Swift Data, UI/UX, Figma Design, Machine Learning, React Native, JS**
 
 - 📫 How to reach me **tudor.iustin@icloud.com**
 
-- ⚡ Fun fact **I love building apps that convert into passive income**
+- ⚡ Fun fact **I've been an Apple Fan for as long as I can remember and love the ecosystem around it **
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: </h3>
 <p align="left">
 <a href="https://linkedin.com/in/tudor-iustin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tudor-iustin" height="30" width="40" /></a>
 <a href="https://instagram.com/tudoriustin_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tudoriustin_" height="30" width="40" /></a>
