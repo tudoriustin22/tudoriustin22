@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **tudor.iustin@icloud.com**
 
-- ⚡ Fun fact **I've been an Apple Fan for as long as I can remember and love the ecosystem around it **
+- ⚡ Fun fact **I've been an Apple Fan for as long as I can remember and love the ecosystem around it**
 
 <h3 align="left">Connect with me: </h3>
 <p align="left">
