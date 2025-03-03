@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Tudor Iustin | iOS Engineer</h1>
+<h1 align="center">Tudor Iustin | iOS Engineer</h1>
 <h3 align="center">Apple Developer</h3>
 
 ### 📌 About Me
