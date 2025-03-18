@@ -1,4 +1,5 @@
-<h1 align="center">Tudor Iustin | Data Scientist</h1>
+<h1 align="center">Tudor Iustin | AI/ML Engineer </h1>
+
 - 🔭 I’m currently working on **Robotic Operating System Based Deep Learning Powered Self Driving Car**
 
 - 🌱 I’m currently learning **Advanced Data Structures and SQL**
