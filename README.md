@@ -1,7 +1,7 @@
 <div style="background-color: white; border-radius: 15px; padding: 20px; max-width: 800px; margin: auto; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
   <div style="display: flex; align-items: center; justify-content: center; margin-bottom: 10px;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/Apple_logo_white.svg" alt="apple-logo" width="30" height="30" style="margin-right: 10px;"/>
-    <h1 align="center">Hi 👋, I'm Tudor Iustin</h1>
+    <h1 align="center">Tudor Iustin</h1>
   </div>
   <h3 align="center">iOS Engineer | Apple Developer</h3>
 
