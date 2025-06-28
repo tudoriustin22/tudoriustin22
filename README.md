@@ -19,7 +19,7 @@ I'm an AI/ML Engineer with a strong foundation in deep learning, machine learnin
 ### 🎓 Education
 
 - **BSc in Computer Science** — University of Greenwich  
-- **MSc in Data Science & Machine Learning** *(In Progress)* — University of Greenwich
+- **MSc in Artificial Intelligence** *(In Progress)* — University of Essex
 
 ---
 
