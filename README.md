@@ -12,7 +12,14 @@
 <a href="https://linkedin.com/in/tudor-iustin-07b7b4355" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools I Use:</h3>
+<h3 align="left">Education:</h3>
+<ul>
+<li>🎓 <b>Master of Science in Artificial Intelligence</b> — University of Essex (2025 - 2026)</li>
+<li>🎓 <b>Bachelor of Science in Computer Science</b> — University of Greenwich (2022 - 2025)</li>
+</ul>
+
+
+<h3 align="left">Tech Stack: </h3>
 <p align="left">
 <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
 <a href="https://pytorch.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/></a>
