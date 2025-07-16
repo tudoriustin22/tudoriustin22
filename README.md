@@ -1,5 +1,5 @@
-<h1 align="center">I'm Tudor Iustin</h1>
-<h3 align="center">Data Scientist | MSc Artificial Intelligence | Based in London, UK</h3>
+<h1 align="center">Tudor Iustin</h1>
+<h3 align="center">Data Scientist | Based in London, UK</h3>
 
 - 📝 I occasionally write articles on [LinkedIn](https://www.linkedin.com/in/tudor-iustin-07b7b4355/)
 
@@ -14,7 +14,7 @@
 
 <h3 align="left">Education:</h3>
 <ul>
-<li>🎓 <b>Master of Science in Artificial Intelligence</b> — University of Essex (2025 - 2026)</li>
+<li>🎓 <b>MicroMasters in Data Science & Statistics</b> — Massachusetts Institute of Technology - MIT (2025 - 2027)</li>
 <li>🎓 <b>Bachelor of Science in Computer Science</b> — University of Greenwich (2022 - 2025)</li>
 </ul>
 
