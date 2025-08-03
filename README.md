@@ -1,9 +1,9 @@
 <h1 align="center">Tudor Iustin</h1>
-<h3 align="center">Data Scientist | Based in London, UK</h3>
+<h3 align="center">Quantum Machine Learning Engineer | Data Scientist | Based in London, UK</h3>
 
 - 📝 I occasionally write articles on [LinkedIn](https://www.linkedin.com/in/tudor-iustin-07b7b4355/)
 
-- 💬 Ask me about **Data Science, EDA, Machine Learning, Data Analysis**
+- 💬 Ask me about **Quantum ML, Quantum States, Qubits, Data Science, EDA, Machine Learning, Data Analysis**
 
 - 📫 Reach me at **tudor.iustin@icloud.com**
 
