@@ -6,7 +6,7 @@ As the founder of **Gamma AI**, I lead the development of conversational AI prod
 
 ---
 
-## 🧠 Tech Stack
+## Tech Stack
 
 | Category | Technologies |
 |-----------|---------------|
